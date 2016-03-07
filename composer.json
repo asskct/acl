@@ -1,0 +1,15 @@
+{
+    "name": "root/acl-ao-vivo",
+    "authors": [
+        {
+            "name": "Antonio Soares",
+            "email": "asskct@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+    	"psr-4" : {
+    		"Asskct\\Acl\\" :"src/"
+    	}
+    }
+}
